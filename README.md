@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.svg" alt="M1KE — macorredor270. Full-Stack Developer & Security-minded Engineer." width="100%">
+  <img src="docs/banner.svg?v=1789921814" alt="M1KE — macorredor270. Full-Stack Developer & Security-minded Engineer." width="100%">
 </p>
 
 <p align="center">
