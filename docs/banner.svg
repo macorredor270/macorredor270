@@ -2,33 +2,32 @@
   <title id="t">M1KE — macorredor270</title>
   <desc id="d">Full-Stack Developer &amp; Security-minded Engineer. España, autodidacta.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060907"/><stop offset="0.55" stop-color="#0a100c"/><stop offset="1" stop-color="#0d1811"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00ff9d"/><stop offset="1" stop-color="#00c97e"/></linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#00ff9d" stop-opacity="0.18"/><stop offset="1" stop-color="#00ff9d" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050505"/><stop offset="0.55" stop-color="#0a0a0a"/><stop offset="1" stop-color="#0e0e0e"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
   </defs>
   <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
   <ellipse cx="930" cy="150" rx="320" ry="180" fill="url(#glow)"/>
 
-  <!-- ventana de terminal esquemática, monocromo -->
+  <!-- ventana de terminal esquemática, blanco y negro -->
   <g transform="translate(760,60)">
-    <rect x="0" y="0" width="380" height="180" rx="10" fill="#00ff9d" fill-opacity="0.04" stroke="url(#accent)" stroke-width="1.6" opacity="0.7"/>
-    <rect x="0" y="0" width="380" height="26" rx="10" fill="#00ff9d" fill-opacity="0.08"/>
-    <circle cx="16" cy="13" r="4" fill="#00ff9d" opacity="0.85"/>
-    <circle cx="30" cy="13" r="4" fill="#00ff9d" opacity="0.55"/>
-    <circle cx="44" cy="13" r="4" fill="#00ff9d" opacity="0.3"/>
-    <text x="16" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8fffce">$ whoami</text>
-    <text x="16" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#eafff5">macorredor270</text>
-    <text x="16" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8fffce">$ cat status</text>
-    <text x="16" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a9d9c4">España · autodidacta</text>
-    <text x="16" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a9d9c4">full-stack · systems · security</text>
-    <rect x="16" y="160" width="8" height="14" fill="#00ff9d" opacity="0.8"/>
+    <rect x="0" y="0" width="380" height="180" rx="10" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
+    <rect x="0" y="0" width="380" height="26" rx="10" fill="#ffffff" fill-opacity="0.06"/>
+    <circle cx="16" cy="13" r="4" fill="#ffffff" opacity="0.7"/>
+    <circle cx="30" cy="13" r="4" fill="#ffffff" opacity="0.45"/>
+    <circle cx="44" cy="13" r="4" fill="#ffffff" opacity="0.25"/>
+    <text x="16" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#9a9a9a">$ whoami</text>
+    <text x="16" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#ffffff">macorredor270</text>
+    <text x="16" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#9a9a9a">$ cat status</text>
+    <text x="16" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c2c2c2">España · autodidacta</text>
+    <text x="16" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c2c2c2">full-stack · systems · security</text>
+    <rect x="16" y="160" width="8" height="14" fill="#ffffff" opacity="0.8"/>
   </g>
 
-  <text x="62" y="128" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="-2" fill="#eafff5">M1KE</text>
-  <text x="66" y="168" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#00ff9d">@macorredor270</text>
-  <text x="66" y="200" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="500" fill="#a9d9c4">Full-Stack Developer &amp; Security-minded Engineer</text>
+  <text x="62" y="128" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="-2" fill="#ffffff">M1KE</text>
+  <text x="66" y="168" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#d4d4d4">@macorredor270</text>
+  <text x="66" y="200" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="500" fill="#a3a3a3">Full-Stack Developer &amp; Security-minded Engineer</text>
 
-  <rect x="64" y="228" width="150" height="32" rx="16" fill="#00ff9d" fill-opacity="0.06" stroke="#00ff9d" stroke-opacity="0.28"/><text x="139.0" y="249" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#eafff5">Autodidacta</text>
-  <rect x="222" y="228" width="110" height="32" rx="16" fill="#00ff9d" fill-opacity="0.06" stroke="#00ff9d" stroke-opacity="0.28"/><text x="277.0" y="249" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#eafff5">España</text>
-  <rect x="340" y="228" width="150" height="32" rx="16" fill="#00ff9d" fill-opacity="0.06" stroke="#00ff9d" stroke-opacity="0.28"/><text x="415.0" y="249" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#eafff5">Open Source</text>
+  <rect x="64" y="228" width="150" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.25"/><text x="139.0" y="249" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">Autodidacta</text>
+  <rect x="222" y="228" width="110" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.25"/><text x="277.0" y="249" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">España</text>
+  <rect x="340" y="228" width="150" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.25"/><text x="415.0" y="249" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">Open Source</text>
 </svg>

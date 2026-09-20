@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="docs/banner.svg?v=1789921814" alt="M1KE — macorredor270. Full-Stack Developer & Security-minded Engineer." width="100%">
+  <img src="docs/banner.svg?v=1789921907" alt="M1KE — macorredor270. Full-Stack Developer & Security-minded Engineer." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://mikedev.duckdns.org"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-mikedev.duckdns.org-00ff9d?style=flat-square"></a>
-  <a href="mailto:macorredor27@proton.me"><img alt="Email" src="https://img.shields.io/badge/email-macorredor27%40proton.me-00ff9d?style=flat-square"></a>
-  <a href="https://www.instagram.com/macorredor270"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%40macorredor270-00ff9d?style=flat-square"></a>
-  <a href="https://www.tiktok.com/@macorredor270"><img alt="TikTok" src="https://img.shields.io/badge/tiktok-%40macorredor270-00ff9d?style=flat-square"></a>
+  <a href="https://mikedev.duckdns.org"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-mikedev.duckdns.org-2b2b2b?style=flat-square&labelColor=000000"></a>
+  <a href="mailto:macorredor27@proton.me"><img alt="Email" src="https://img.shields.io/badge/email-macorredor27%40proton.me-2b2b2b?style=flat-square&labelColor=000000"></a>
+  <a href="https://www.instagram.com/macorredor270"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%40macorredor270-2b2b2b?style=flat-square&labelColor=000000"></a>
+  <a href="https://www.tiktok.com/@macorredor270"><img alt="TikTok" src="https://img.shields.io/badge/tiktok-%40macorredor270-2b2b2b?style=flat-square&labelColor=000000"></a>
 </p>
 
 ---
@@ -81,8 +81,8 @@ Igual que en [mikedev.duckdns.org/stack](https://mikedev.duckdns.org/stack), org
 ## GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=macorredor270&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff9d&icon_color=00ff9d&text_color=c9d6cf&hide_title=false" alt="Estadísticas de GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macorredor270&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff9d&text_color=c9d6cf&langs_count=8" alt="Lenguajes más usados" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=macorredor270&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=c2c2c2&hide_title=false" alt="Estadísticas de GitHub" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macorredor270&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c2c2c2&langs_count=8" alt="Lenguajes más usados" height="165">
 </p>
 
 ## Proyectos destacados
