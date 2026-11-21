@@ -35,7 +35,7 @@ Proyectos reales, desplegados y en vivo:
 | **[Enrié Bags & Style](https://enrie.es)** | Tienda online completa con pagos, stock y panel de gestión. | Next.js · PostgreSQL · Redis · Stripe |
 | **[Corredor Holding](https://corredorholding.es)** | Panel operativo interno y web corporativa para un partner de Amazon DSP. | TypeScript |
 | **[Jimco Express](https://jimcoexpress.es)** | Web y herramientas para una empresa de logística. | PHP |
-| **[CDOR](https://cdor.online)** | Chat con IA sincronizado entre web, Android e iOS. Código: [cdor.online](https://github.com/macorredor270/cdor.online). | SvelteKit · Tauri 2 · NVIDIA NIM |
+| **[CDOR](https://cdor.online)** | Chat con IA sincronizado entre web, Android e iOS con una sola base de código. | SvelteKit · Tauri 2 · NVIDIA NIM |
 | **[MIKE OS](https://m1keos.macorredor.dev)** | Web, documentación y repositorio de paquetes del sistema operativo propio. | Shell · C · Elixir |
 | **[Dinamic](https://juego.macorredor.dev)** | Juego 3D multijugador en el navegador, con físicas y servidor autoritativo. | React Three Fiber · Rapier · Colyseus |
 
@@ -44,7 +44,7 @@ Proyectos reales, desplegados y en vivo:
 | Proyecto | Qué es |
 |---|---|
 | **[mikeos](https://github.com/macorredor270/mikeos)** | Sistema operativo construido desde cero: kernel Linux propio, init con runit (cero systemd), shell y gestor de paquetes propios. Arranca en <0.6s con ~50MB de RAM. |
-| **[cdor.online](https://github.com/macorredor270/cdor.online)** | Plataforma de chat con IA sincronizada entre web, Android e iOS con una sola base de código. |
+| **[MC-WEB](https://github.com/macorredor270/MC-WEB)** | Minecraft 1.8 reimplementado desde cero en C++20 (sala limpia): nativo en Linux y Windows y en el navegador con WebAssembly + WebGL2. |
 | **[resonda](https://github.com/macorredor270/resonda)** | Descargador de YouTube, Spotify y más escrito en Rust desde cero, sin yt-dlp ni ffmpeg. Linux y Windows, libre (MIT). |
 | **[vision-live](https://github.com/macorredor270/vision-live)** | Percepción visual en tiempo real 100% local: cara, ojos, manos, postura y objetos. Sin nube, sin APIs. |
 | **[airpods-emulator](https://github.com/macorredor270/airpods-emulator)** | Ingeniería inversa del protocolo Continuity de Apple sobre BLE (C + Rust) y baliza Find My / OpenHaystack. |
