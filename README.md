@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://macorredor.dev"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-macorredor.dev-2b2b2b?style=flat-square&labelColor=000000"></a>
   <a href="mailto:macorredor27@proton.me"><img alt="Email" src="https://img.shields.io/badge/email-macorredor27%40proton.me-2b2b2b?style=flat-square&labelColor=000000"></a>
-  <a href="https://www.instagram.com/macorredor270"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%40macorredor270-2b2b2b?style=flat-square&labelColor=000000"></a>
+  <a href="https://www.instagram.com/macorredor27"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%40macorredor27-2b2b2b?style=flat-square&labelColor=000000"></a>
   <a href="https://www.tiktok.com/@macorredor270"><img alt="TikTok" src="https://img.shields.io/badge/tiktok-%40macorredor270-2b2b2b?style=flat-square&labelColor=000000"></a>
 </p>
 
@@ -129,5 +129,5 @@ con despliegue desde git.
 
 - **Web** — [macorredor.dev](https://macorredor.dev)
 - **Email** — [macorredor27@proton.me](mailto:macorredor27@proton.me)
-- **Instagram** — [@macorredor270](https://www.instagram.com/macorredor270)
+- **Instagram** — [@macorredor27](https://www.instagram.com/macorredor27)
 - **TikTok** — [@macorredor270](https://www.tiktok.com/@macorredor270)
